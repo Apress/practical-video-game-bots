@@ -1,0 +1,245 @@
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sat Oct 17 11:31:24 2015
+
+             8.227mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sat Oct 17 11:32:59 2015
+
+             1.148mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sat Oct 17 11:40:53 2015
+
+             1.527mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sat Oct 17 11:41:51 2015
+
+             1.161mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sat Oct 17 11:44:44 2015
+
+             1.173mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+              2.101S|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+              6.316S|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+              6.218S|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+              6.209S|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sat Oct 17 11:47:10 2015
+
+             1.148mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+              2.099S|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           474.354mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           388.915mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           437.812mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           444.786mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           433.249mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           436.081mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           428.796mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           431.198mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           433.662mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           431.716mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           437.369mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           428.547mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           432.572mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           432.213mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           435.066mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           434.805mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           417.059mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           444.549mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           432.177mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           431.487mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           434.707mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           433.014mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           398.423mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           431.769mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           432.442mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           432.249mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           432.542mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           432.612mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           432.371mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           432.476mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           434.056mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           417.711mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           430.812mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           435.036mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           434.534mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           444.457mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           434.456mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           449.233mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           413.487mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           440.601mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           365.543mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           393.221mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           390.424mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           440.484mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           434.843mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           431.885mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           432.909mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           431.615mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           440.254mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           443.091mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           432.371mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           431.155mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           434.070mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           431.188mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           432.349mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           434.382mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           430.420mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           433.694mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           438.645mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           450.918mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           441.693mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           433.392mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           433.172mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           486.474mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+           437.289mS|ProgressiveSearch Step 1 Failed (0/[10,20] pixels found)
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sat Oct 17 11:48:36 2015
+
+             1.443mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+              2.103S|ProgressiveSearch Step 1 Failed (0/[3,8] pixels found)
+              1.242S|ProgressiveSearch Step 1 Failed (0/[3,8] pixels found)
+              1.235S|ProgressiveSearch Step 1 Failed (0/[3,8] pixels found)
+              1.210S|ProgressiveSearch Step 1 Failed (0/[3,8] pixels found)
+              1.229S|ProgressiveSearch Step 1 Failed (0/[3,8] pixels found)
+              1.215S|ProgressiveSearch Step 1 Failed (0/[3,8] pixels found)
+              1.232S|ProgressiveSearch Step 1 Failed (0/[3,8] pixels found)
+              1.246S|ProgressiveSearch Step 1 Failed (0/[3,8] pixels found)
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sat Oct 17 11:49:21 2015
+
+             1.837mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+             20.702S|ProgressiveSearch Step 1 Failed (0/[3,8] pixels found)
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sat Oct 17 12:22:14 2015
+
+             1.238mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+              2.080S|ProgressiveSearch Step 1 Failed (0/[3,8] pixels found)
+              1.110S|ProgressiveSearch Step 1 Failed (0/[3,8] pixels found)
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sat Oct 17 12:36:50 2015
+
+             1.148mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+              2.109S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              7.553S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sun Oct 18 10:42:56 2015
+
+             1.757mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+              2.074S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           339.800mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           349.660mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           350.255mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           349.252mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           348.756mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           356.281mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           348.747mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           343.611mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+             25.128S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.142S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.135S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.133S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.115S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.130S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              8.936S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.131S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.148S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.132S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.156S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.140S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.133S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.135S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.138S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sun Oct 18 10:45:13 2015
+
+             1.298mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+              2.090S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           341.604mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+             18.421S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.146S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           360.286mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           323.353mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           348.215mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           348.888mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           349.776mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           359.304mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           340.200mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           340.565mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           325.977mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           338.039mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           343.991mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           338.342mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           342.837mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           333.743mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sun Oct 18 16:53:00 2015
+
+             1.574mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+              2.079S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           352.875mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           331.215mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sun Oct 18 16:58:32 2015
+
+             1.173mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+              2.106S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              8.996S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.199S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sun Oct 18 17:02:30 2015
+
+             1.544mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+              2.069S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           323.214mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+
+****************************** FastFind 2.2 (c)FastFrench 2013 ********
+		Started  Sun Oct 18 17:05:24 2015
+
+             2.085mS|ChangeMode(231) => m_bDebugGraphique=1, m_DebugModeTxt=  E3
+              2.081S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           345.462mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+             26.141S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.230S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           430.673mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           432.830mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           433.875mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           428.858mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           432.825mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           433.821mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+             17.589S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.230S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              9.119S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.236S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           426.799mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           438.122mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              9.150S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+              1.228S|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           379.855mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           390.814mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           442.717mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           422.843mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           396.645mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           445.886mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           431.118mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           437.331mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           428.613mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           433.762mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           436.615mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           444.790mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           435.158mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)
+           429.552mS|ProgressiveSearch Step 1 Failed (0/[3,10] pixels found)

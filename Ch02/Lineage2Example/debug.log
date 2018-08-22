@@ -1,0 +1,62 @@
+SelectTarget()
+IsTargetExist() - Fail #2
+IsTargetExist() - Fail #1
+IsTargetExist() - Success, coords = 685, 65 pixels = 73
+Attack()
+IsTargetExist() - Success, coords = 685, 65 pixels = 73
+IsTargetExist() - Success, coords = 685, 65 pixels = 73
+IsTargetExist() - Success, coords = 685, 65 pixels = 73
+IsTargetExist() - Success, coords = 685, 65 pixels = 73
+IsTargetExist() - Success, coords = 652, 65 pixels = 14
+IsTargetExist() - Success, coords = 622, 65 pixels = 10
+IsTargetExist() - Fail #1
+SelectTarget()
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Success, coords = 685, 65 pixels = 73
+Attack()
+IsTargetExist() - Success, coords = 685, 65 pixels = 73
+IsTargetExist() - Success, coords = 685, 65 pixels = 73
+IsTargetExist() - Success, coords = 651, 65 pixels = 13
+IsTargetExist() - Success, coords = 623, 65 pixels = 11
+IsTargetExist() - Fail #1
+SelectTarget()
+IsTargetExist() - Fail #1
+IsTargetExist() - Success, coords = 685, 65 pixels = 73
+Attack()
+IsTargetExist() - Success, coords = 685, 65 pixels = 73
+IsTargetExist() - Success, coords = 657, 65 pixels = 23
+IsTargetExist() - Fail #1
+SelectTarget()
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Success, coords = 685, 65 pixels = 73
+Attack()
+IsTargetExist() - Success, coords = 685, 65 pixels = 73
+IsTargetExist() - Success, coords = 640, 65 pixels = 13
+IsTargetExist() - Fail #1
+SelectTarget()
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Fail #1
+IsTargetExist() - Success, coords = 685, 65 pixels = 73
+Attack()
+IsTargetExist() - Success, coords = 685, 65 pixels = 73
